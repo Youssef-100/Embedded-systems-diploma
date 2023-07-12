@@ -1,12 +1,4 @@
-/*
- ============================================================================
- Name        : Ex7.c
- Author      : 
- Version     :
- Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
- ============================================================================
- */
+//Write Source Code to Swap Two Numbers without temp variable.
 
 #include <stdio.h>
 

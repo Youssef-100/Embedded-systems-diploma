@@ -1,12 +1,4 @@
-/*
- ============================================================================
- Name        : Ex4.c
- Author      : 
- Version     :
- Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
- ============================================================================
- */
+//Write C Program to Find ASCII Value of a Character
 
 #include <stdio.h>
 #include <stdlib.h>

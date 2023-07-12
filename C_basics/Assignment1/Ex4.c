@@ -1,13 +1,4 @@
-/*
- ============================================================================
- Name        : Ex4.c
- Author      : 
- Version     :
- Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
- ============================================================================
- */
-
+//Write C Program to Multiply two Floating Point Number
 #include <stdio.h>
 
 
